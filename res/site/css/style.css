@@ -255,9 +255,9 @@ z-index: 999;}
 .block-slider .caption-group .primary{
 	color: #1bd172;
 }
-.block-slider .caption-group .caption{
+/*.block-slider .caption-group .caption{
 
-}
+}/*
 
 /*----------------------
 [10. Block top seller ]
@@ -443,7 +443,7 @@ z-index: 999;}
 .single-product {
   overflow: hidden;
 }
-.single-product:hover {}
+/*.single-product:hover {}*/
 .single-product:hover .product-hover a.add-to-cart-link {top: 32%;}
 .single-product:hover .product-hover a.view-details-link {bottom: 32%;}
 .single-product:hover .product-hover:after{left: 0}
@@ -982,8 +982,8 @@ div.cart-collaterals ul.products li.product {
 .cart_totals table th {
     background: none repeat scroll 0 0 #f4f4f4;
 }
-.onsale {
-}
+/*.onsale {
+}*/
 div.cart-collaterals ul.products li.product .onsale {
     background: none repeat scroll 0 0 #e67e22;
     color: #fff;
@@ -1002,8 +1002,8 @@ div.cart-collaterals ul.products li.product .price {
     margin-bottom: 10px;
     overflow: hidden;
 }
-.price > ins {
-}
+/*.price > ins {
+}*/
 div.cart-collaterals ul.products li.product .price ins {
     color: #e67e22;
     font-weight: 700;
